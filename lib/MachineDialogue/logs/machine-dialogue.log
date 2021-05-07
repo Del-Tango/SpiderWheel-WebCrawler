@@ -1,0 +1,710 @@
+[35mMon Apr 26 22:29:30 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 01:13:25 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 01:13:49 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 01:15:01 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 01:17:31 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 01:17:52 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 01:21:53 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 02:41:56 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 02:41:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 02:41:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 02:41:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 02:41:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 02:41:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 02:41:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 02:41:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 02:41:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 02:41:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 02:41:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 02:41:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-02:41:56.out[m).
+[35mThu May  6 02:41:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 02:44:23 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 02:44:23 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 02:44:23 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 02:44:23 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 02:44:23 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 02:44:23 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 02:44:23 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 02:44:23 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 02:44:23 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 02:44:23 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 02:44:23 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 02:44:23 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-02:44:22.out[m).
+[35mThu May  6 02:44:23 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 02:46:49 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 02:46:49 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 02:46:49 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 02:46:49 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 02:46:49 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 02:46:49 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 02:46:49 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 02:46:49 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 02:46:49 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 02:46:49 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 02:46:49 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 02:46:49 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-02:46:49.out[m).
+[35mThu May  6 02:46:49 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 18:58:23 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 18:58:24 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 18:58:24 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 18:58:24 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 18:58:24 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 18:58:24 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 18:58:24 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 18:58:24 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 18:58:24 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 18:58:24 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 18:58:24 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 18:58:24 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-18:58:23.out[m).
+[35mThu May  6 18:58:24 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 18:59:02 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 18:59:02 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 18:59:02 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 18:59:02 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 18:59:02 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 18:59:02 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 18:59:02 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 18:59:02 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 18:59:02 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 18:59:02 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 18:59:02 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 18:59:02 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-18:59:02.out[m).
+[35mThu May  6 18:59:02 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 19:40:17 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 19:40:17 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 19:40:17 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 19:40:17 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 19:40:17 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 19:40:17 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 19:40:17 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 19:40:17 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 19:40:17 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 19:40:17 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 19:40:17 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 19:40:17 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-19:40:17.out[m).
+[35mThu May  6 19:40:17 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 19:41:01 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 19:41:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 19:41:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 19:41:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 19:41:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 19:41:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 19:41:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 19:41:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 19:41:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 19:41:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 19:41:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 19:41:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-19:41:01.out[m).
+[35mThu May  6 19:41:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 19:41:39 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 19:41:39 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 19:41:39 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 19:41:39 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 19:41:39 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 19:41:39 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 19:41:39 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 19:41:39 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 19:41:39 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 19:41:39 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 19:41:39 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 19:41:39 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-19:41:39.out[m).
+[35mThu May  6 19:41:39 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 19:42:04 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 19:42:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 19:42:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 19:42:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 19:42:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 19:42:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 19:42:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 19:42:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 19:42:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 19:42:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 19:42:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 19:42:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-19:42:04.out[m).
+[35mThu May  6 19:42:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 20:13:46 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 20:13:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 20:13:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 20:13:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 20:13:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 20:13:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 20:13:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 20:13:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 20:13:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 20:13:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 20:13:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 20:13:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-20:13:46.out[m).
+[35mThu May  6 20:13:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 20:25:51 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 20:25:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 20:25:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 20:25:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 20:25:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 20:25:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 20:25:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 20:25:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 20:25:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 20:25:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 20:25:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 20:25:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-20:25:51.out[m).
+[35mThu May  6 20:25:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 20:58:15 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 20:58:15 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 20:58:15 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 20:58:15 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 20:58:15 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 20:58:15 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 20:58:15 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 20:58:15 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 20:58:15 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 20:58:15 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 20:58:15 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 20:58:15 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 20:58:15 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-20:58:15.out[m).
+[35mThu May  6 20:58:15 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 20:59:41 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 20:59:41 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 20:59:41 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 20:59:41 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 20:59:41 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 20:59:41 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 20:59:41 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 20:59:41 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 20:59:41 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 20:59:41 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 20:59:41 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 20:59:41 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 20:59:41 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-20:59:41.out[m).
+[35mThu May  6 20:59:41 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 21:02:07 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 21:02:07 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 21:02:07 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 21:02:07 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 21:02:07 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 21:02:07 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 21:02:07 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 21:02:07 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 21:02:07 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 21:02:07 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 21:02:07 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 21:02:07 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 21:02:07 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-21:02:07.out[m).
+[35mThu May  6 21:02:07 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 21:03:32 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 21:03:32 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 21:03:32 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 21:03:32 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 21:03:32 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 21:03:32 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 21:03:32 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 21:03:32 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 21:03:32 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 21:03:32 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 21:03:32 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 21:03:32 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 21:03:32 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-21:03:32.out[m).
+[35mThu May  6 21:03:32 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 21:04:25 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 21:04:25 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 21:04:25 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 21:04:25 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 21:04:25 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 21:04:25 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 21:04:25 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 21:04:25 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 21:04:25 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 21:04:25 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 21:04:25 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 21:04:25 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 21:04:25 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-21:04:25.out[m).
+[35mThu May  6 21:04:25 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 21:07:12 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 21:07:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 21:07:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 21:07:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 21:07:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 21:07:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 21:07:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 21:07:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 21:07:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 21:07:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 21:07:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 21:07:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 21:07:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-21:07:12.out[m).
+[35mThu May  6 21:07:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:04:33 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:04:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:04:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:04:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:04:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:04:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:04:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:04:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:04:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:04:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:04:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:04:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:04:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:04:32.out[m).
+[35mThu May  6 22:04:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:18:45 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:18:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:18:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:18:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:18:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:18:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:18:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:18:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:18:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:18:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:18:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:18:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:18:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:18:45.out[m).
+[35mThu May  6 22:18:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:21:19 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:21:19 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:21:19 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:21:19 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:21:19 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:21:19 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:21:19 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:21:20 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:21:20 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:21:20 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:21:20 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:21:20 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:21:20 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:21:19.out[m).
+[35mThu May  6 22:21:20 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:22:31 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:22:31 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:22:31 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:22:31 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:22:31 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:22:31 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:22:31 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:22:31 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:22:31 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:22:31 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:22:31 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:22:31 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:22:31 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:22:30.out[m).
+[35mThu May  6 22:22:31 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:23:58 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:23:58 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:23:58 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:23:58 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:23:58 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:23:58 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:23:58 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:23:58 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:23:58 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:23:58 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:23:58 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:23:58 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:23:58 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:23:58.out[m).
+[35mThu May  6 22:23:58 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:24:53 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:24:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:24:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:24:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:24:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:24:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:24:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:24:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:24:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:24:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:24:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:24:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:24:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:24:53.out[m).
+[35mThu May  6 22:24:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:27:04 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:27:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:27:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:27:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:27:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:27:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:27:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:27:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:27:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:27:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:27:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:27:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:27:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:27:03.out[m).
+[35mThu May  6 22:27:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:27:54 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:27:54 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:27:54 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:27:54 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:27:54 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:27:54 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:27:54 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:27:54 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:27:54 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:27:54 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:27:54 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:27:54 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:27:54 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:27:54.out[m).
+[35mThu May  6 22:27:54 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:28:11 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:28:11 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:28:11 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:28:11 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:28:11 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:28:11 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:28:11 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:28:11 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:28:11 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:28:11 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:28:11 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:28:11 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:28:11 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:28:11.out[m).
+[35mThu May  6 22:28:11 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:29:09 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:29:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:29:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:29:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:29:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:29:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:29:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:29:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:29:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:29:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:29:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:29:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:29:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:29:08.out[m).
+[35mThu May  6 22:29:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:30:09 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:30:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:30:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:30:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:30:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:30:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:30:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:30:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:30:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:30:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:30:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:30:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:30:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:30:09.out[m).
+[35mThu May  6 22:30:09 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:31:05 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:31:05 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:31:05 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:31:05 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:31:05 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:31:05 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:31:05 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:31:05 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:31:05 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:31:05 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:31:05 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:31:05 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:31:05 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:31:05.out[m).
+[35mThu May  6 22:31:05 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:39:53 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:39:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:39:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:39:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:39:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:39:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:39:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:39:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:39:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:39:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:39:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:39:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:39:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:39:53.out[m).
+[35mThu May  6 22:39:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:44:13 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:44:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:44:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:44:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:44:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:44:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:44:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:44:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:44:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:44:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:44:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:44:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:44:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:44:13.out[m).
+[35mThu May  6 22:44:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:44:56 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:44:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:44:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:44:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:44:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:44:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:44:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:44:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:44:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:44:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:44:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:44:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:44:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:44:56.out[m).
+[35mThu May  6 22:44:56 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:48:50 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:48:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:48:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:48:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:48:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:48:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:48:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:48:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:48:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:48:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:48:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:48:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:48:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:48:50.out[m).
+[35mThu May  6 22:48:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 22:51:04 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 22:51:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 22:51:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 22:51:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 22:51:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 22:51:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 22:51:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 22:51:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 22:51:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 22:51:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 22:51:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 22:51:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 22:51:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-22:51:04.out[m).
+[35mThu May  6 22:51:04 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 23:46:53 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 23:46:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 23:46:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 23:46:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 23:46:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 23:46:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 23:46:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 23:46:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 23:46:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 23:46:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 23:46:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 23:46:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 23:46:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-23:46:52.out[m).
+[35mThu May  6 23:46:53 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 23:47:50 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 23:47:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 23:47:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 23:47:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 23:47:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 23:47:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 23:47:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 23:47:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 23:47:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 23:47:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 23:47:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 23:47:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 23:47:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-23:47:50.out[m).
+[35mThu May  6 23:47:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 23:53:13 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 23:53:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 23:53:14 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 23:53:14 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 23:53:14 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 23:53:14 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 23:53:14 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 23:53:14 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 23:53:14 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 23:53:14 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 23:53:14 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 23:53:14 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 23:53:14 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-23:53:13.out[m).
+[35mThu May  6 23:53:14 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 23:56:47 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 23:56:47 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 23:56:47 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 23:56:47 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 23:56:47 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 23:56:47 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 23:56:47 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 23:56:47 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 23:56:47 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 23:56:47 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 23:56:47 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 23:56:47 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 23:56:47 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-23:56:47.out[m).
+[35mThu May  6 23:56:47 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mThu May  6 23:58:50 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mThu May  6 23:58:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mThu May  6 23:58:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mThu May  6 23:58:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mThu May  6 23:58:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mThu May  6 23:58:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mThu May  6 23:58:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mThu May  6 23:58:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mThu May  6 23:58:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mThu May  6 23:58:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mThu May  6 23:58:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mThu May  6 23:58:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mThu May  6 23:58:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-23:58:50.out[m).
+[35mThu May  6 23:58:50 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mFri May  7 00:02:51 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mFri May  7 00:02:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mFri May  7 00:02:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mFri May  7 00:02:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mFri May  7 00:02:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mFri May  7 00:02:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mFri May  7 00:02:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mFri May  7 00:02:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mFri May  7 00:02:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mFri May  7 00:02:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mFri May  7 00:02:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mFri May  7 00:02:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mFri May  7 00:02:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-00:02:51.out[m).
+[35mFri May  7 00:02:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mFri May  7 00:05:46 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mFri May  7 00:05:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mFri May  7 00:05:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mFri May  7 00:05:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mFri May  7 00:05:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mFri May  7 00:05:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mFri May  7 00:05:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mFri May  7 00:05:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mFri May  7 00:05:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mFri May  7 00:05:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mFri May  7 00:05:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mFri May  7 00:05:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mFri May  7 00:05:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-00:05:46.out[m).
+[35mFri May  7 00:05:46 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mFri May  7 00:08:01 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mFri May  7 00:08:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mFri May  7 00:08:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mFri May  7 00:08:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mFri May  7 00:08:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mFri May  7 00:08:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mFri May  7 00:08:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mFri May  7 00:08:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mFri May  7 00:08:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mFri May  7 00:08:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mFri May  7 00:08:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mFri May  7 00:08:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mFri May  7 00:08:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-00:08:01.out[m).
+[35mFri May  7 00:08:01 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mFri May  7 00:09:33 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mFri May  7 00:09:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mFri May  7 00:09:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mFri May  7 00:09:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mFri May  7 00:09:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mFri May  7 00:09:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mFri May  7 00:09:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mFri May  7 00:09:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mFri May  7 00:09:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mFri May  7 00:09:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mFri May  7 00:09:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mFri May  7 00:09:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mFri May  7 00:09:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-00:09:33.out[m).
+[35mFri May  7 00:09:33 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mFri May  7 00:10:18 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mFri May  7 00:10:18 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mFri May  7 00:10:18 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mFri May  7 00:10:18 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mFri May  7 00:10:18 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mFri May  7 00:10:18 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mFri May  7 00:10:18 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mFri May  7 00:10:18 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mFri May  7 00:10:18 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mFri May  7 00:10:18 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mFri May  7 00:10:18 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mFri May  7 00:10:18 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mFri May  7 00:10:18 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-00:10:18.out[m).
+[35mFri May  7 00:10:18 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mFri May  7 00:13:08 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mFri May  7 00:13:08 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mFri May  7 00:13:08 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mFri May  7 00:13:08 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mFri May  7 00:13:08 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mFri May  7 00:13:08 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mFri May  7 00:13:08 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mFri May  7 00:13:08 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mFri May  7 00:13:08 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mFri May  7 00:13:08 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mFri May  7 00:13:08 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mFri May  7 00:13:08 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mFri May  7 00:13:08 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-00:13:08.out[m).
+[35mFri May  7 00:13:08 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mFri May  7 00:17:45 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mFri May  7 00:17:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mFri May  7 00:17:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mFri May  7 00:17:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mFri May  7 00:17:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mFri May  7 00:17:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mFri May  7 00:17:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mFri May  7 00:17:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mFri May  7 00:17:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mFri May  7 00:17:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mFri May  7 00:17:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mFri May  7 00:17:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mFri May  7 00:17:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-00:17:45.out[m).
+[35mFri May  7 00:17:45 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mFri May  7 00:18:42 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mFri May  7 00:18:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mFri May  7 00:18:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mFri May  7 00:18:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mFri May  7 00:18:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mFri May  7 00:18:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mFri May  7 00:18:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mFri May  7 00:18:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mFri May  7 00:18:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mFri May  7 00:18:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mFri May  7 00:18:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mFri May  7 00:18:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mFri May  7 00:18:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-00:18:42.out[m).
+[35mFri May  7 00:18:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mFri May  7 00:18:51 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mFri May  7 00:18:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mFri May  7 00:18:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mFri May  7 00:18:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mFri May  7 00:18:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mFri May  7 00:18:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mFri May  7 00:18:51 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mFri May  7 00:18:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mFri May  7 00:18:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mFri May  7 00:18:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mFri May  7 00:18:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mFri May  7 00:18:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mFri May  7 00:18:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-00:18:51.out[m).
+[35mFri May  7 00:18:52 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mFri May  7 00:20:13 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mFri May  7 00:20:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mFri May  7 00:20:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mFri May  7 00:20:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mFri May  7 00:20:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mFri May  7 00:20:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mFri May  7 00:20:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mFri May  7 00:20:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mFri May  7 00:20:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mFri May  7 00:20:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mFri May  7 00:20:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mFri May  7 00:20:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mFri May  7 00:20:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-00:20:13.out[m).
+[35mFri May  7 00:20:13 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mFri May  7 16:46:42 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mFri May  7 16:46:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mFri May  7 16:46:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mFri May  7 16:46:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mFri May  7 16:46:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mFri May  7 16:46:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mFri May  7 16:46:42 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mFri May  7 16:46:43 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mFri May  7 16:46:43 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mFri May  7 16:46:43 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mFri May  7 16:46:43 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mFri May  7 16:46:43 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mFri May  7 16:46:43 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-16:46:42.out[m).
+[35mFri May  7 16:46:43 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).
+[35mFri May  7 16:47:12 EEST 2021[m - [ [34mMachineDialogue[m ]: [36mLocked and Loaded![m
+[35mFri May  7 16:47:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded script name [32mSpiderWheel[m
+[35mFri May  7 16:47:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded prompt string ([32mSpiderWheel> [m).
+[35mFri May  7 16:47:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mzip-files - on[m).
+[35mFri May  7 16:47:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdmp-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump[m).
+[35mFri May  7 16:47:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-count - 0[m).
+[35mFri May  7 16:47:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mdta-dir - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/data[m).
+[35mFri May  7 16:47:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mcycle-interval - 5[m).
+[35mFri May  7 16:47:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mstart-url - https://en.wikipedia.org/wiki/Main_Page[m).
+[35mFri May  7 16:47:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-pages - off[m).
+[35mFri May  7 16:47:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mrespect-robots - off[m).
+[35mFri May  7 16:47:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msave-words - off[m).
+[35mFri May  7 16:47:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32mptn-file - /home/sephermacronix/Projects/SpiderWheel-WebCrawler/dump/matched-pattern-files/pattern-scout-16:47:12.out[m).
+[35mFri May  7 16:47:12 EEST 2021[m - [ [32mOK[m ]: Successfully loaded [34mSpiderWheel[m default setting ([32msilent - off[m).

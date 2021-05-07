@@ -1,0 +1,59 @@
+#!/bin/bash
+#
+# Regards, the Alveare Solutions society.
+#
+# SPIDER WHEEL
+
+declare -A SW_DEFAULT
+declare -A SW_LIB
+declare -A SW_SOURCE
+declare -A SW_IMPORTS
+declare -A SW_PAYLOAD
+declare -A SW_CARGO
+
+SW_RUNNING_MODE="$1"
+
+# [ NOTE ]: Absolute directory path the current file is in.
+SW_DIRECTORY="$(
+    cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd
+)"
+CONF_FILE_PATH="$SW_DIRECTORY/conf/spider-wheel.conf"
+
+if [ ! -f "$CONF_FILE_PATH" ]; then
+    echo "[ WARNING ]: Config file ($CONF_FILE_PATH) not found."
+    exit 1
+else
+    source "$CONF_FILE_PATH"
+fi
+
+for script in ${!SW_SOURCE[@]}; do
+    source ${SW_SOURCE[$script]}
+    if [ $? -ne 0 ]; then
+        echo "[ NOK ]: Something went wrong."\
+            "Could not load ($script) script."
+    else
+        echo "[ OK ]: Successfully loaded ($script) script."
+    fi
+done
+
+for library in ${!SW_LIB[@]}; do
+    source ${SW_LIB[$library]}
+    if [ $? -ne 0 ]; then
+        echo "[ NOK ]: Something went wrong."\
+            "Could not load ($library) library."
+    else
+        echo "[ OK ]: Successfully loaded ($library) library."
+    fi
+done
+
+# MISCELLANEOUS
+
+function init_spider_wheel () {
+    spider_wheel_project_setup
+    display_spider_wheel_banner
+    init_menu "MainController"
+    return $?
+}
+
+init_spider_wheel
+exit $?
